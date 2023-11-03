@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+numpy==1.18.5
+opencv_python==4.5.5.62
+scipy==1.4.1
+tensorboardX==2.6.2.2
+torch==1.11.0
+torchfields==0.1.2
+torchvision==0.12.0
