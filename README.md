@@ -2,7 +2,7 @@
 
 
 
-The python code implementation of the paper "A Principle Design of Registration-Fusion Consistency: Towards Interpretable Deep Fusion for Unregistered Hyperspectral Image"
+The python code implementation of the paper "A Principle Design of Registration-Fusion Consistency: Towards Interpretable Deep Fusion for Unregistered Hyperspectral Image" (TNNLS 2024)
 
 ### Requirements
     Ubuntu 18.04 cuda 11.0
