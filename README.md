@@ -46,5 +46,22 @@ python train.py --data /dataset/pavia \
 python test.py 
 ```
 
+## Cite
+If you find this code helpful, please kindly cite:
+
+```
+@ARTICLE{10566044,
+  author={Qu, Jiahui and Cui, Jizhou and Dong, Wenqian and Du, Qian and Wu, Xiaoyang and Xiao, Song and Li, Yunsong},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={A Principle Design of Registration-Fusion Consistency: Toward Interpretable Deep Unregistered Hyperspectral Image Fusion}, 
+  year={2025},
+  volume={36},
+  number={5},
+  pages={9648-9662},
+  keywords={Task analysis;Image registration;Spatial resolution;Matrix decomposition;Mathematical models;Tensors;Sparse matrices;Hyperspectral image;interpretability;registration-fusion model;unregistered image fusion},
+  doi={10.1109/TNNLS.2024.3412528}}
+
+```
+
 
 
